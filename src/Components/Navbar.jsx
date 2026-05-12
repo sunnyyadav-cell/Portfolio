@@ -1,4 +1,4 @@
-import {nav} from 'framer-motion/client'
+
 import React, { useState } from 'react'
 import { FaBars, FaXmark } from "react-icons/fa6";
 import Projects from './Projects';
