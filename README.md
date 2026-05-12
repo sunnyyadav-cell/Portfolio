@@ -1,16 +1,146 @@
-# React + Vite
+# 🌟 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Full Stack Developer Portfolio** built with **React**, **Tailwind CSS**, and **Framer Motion** to showcase projects, skills, experience, and contact information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 Add your deployed portfolio link here:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+https://your-portfolio-link.com
+```
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# ✨ Features
+
+* ⚡ Modern Responsive UI
+* 🎨 Smooth Animations using Framer Motion
+* 📱 Fully Mobile Responsive
+* 🌙 Dark Theme Design
+* 🧠 Skills & Experience Timeline
+* 💼 Projects Showcase Section
+* 📬 Contact Form Section
+* 🔗 Social Media Integration
+* 🚀 Optimized Performance
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+* React.js
+* Tailwind CSS
+* Framer Motion
+* React Icons
+
+## Tools & Deployment
+
+* Git & GitHub
+* Vercel / Netlify
+* VS Code
+
+---
+
+# 📂 Folder Structure
+
+```bash
+portfolio/
+│
+├── public/
+├── src/
+│   ├── Components/
+│   ├── assets/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# 📸 Preview
+
+Add screenshots of your portfolio here.
+
+```bash
+/assets/preview.png
+```
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Navigate to project directory:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+# 🌐 Deployment
+
+You can deploy this project on:
+
+* Vercel
+* Netlify
+* GitHub Pages
+
+---
+
+# 👨‍💻 About Me
+
+Hi, I'm **Sunny Aryan** 👋
+A passionate **Full Stack Developer** focused on building scalable web applications and modern user experiences using React, Java, Spring Boot, and PostgreSQL.
+
+---
+
+# 📬 Contact
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+🐙 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+Made with ❤️ by Sunny Aryan
+
+</div>
