@@ -69,7 +69,8 @@ portfolio/
 Add screenshots of your portfolio here.
 
 ```bash
-/assets/preview.png
+<img width="1362" height="637" alt="image" src="https://github.com/user-attachments/assets/0ba3ce4d-ef9a-40e2-96a1-138977144cfc" />
+
 ```
 
 ---
@@ -121,9 +122,8 @@ A passionate **Full Stack Developer** focused on building scalable web applicati
 
 # 📬 Contact
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-🐙 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+📧 Email: sunnyjee9234640116@gmail.com
+🐙 GitHub: [https://github.com/yourusername](https://github.com/sunnyyadavcell)
 
 ---
 
