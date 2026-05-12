@@ -68,9 +68,6 @@ portfolio/
 
 Add screenshots of your portfolio here.
 
-```bash
-<img width="1362" height="637" alt="image" src="https://github.com/user-attachments/assets/0ba3ce4d-ef9a-40e2-96a1-138977144cfc" />
-
 ```
 
 ---
